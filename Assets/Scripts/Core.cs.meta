@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 369809ac7ec3ee8459d4481edc67db1b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - l0t0: {fileID: 21300000, guid: b39ce503c723c064196bda4cf436f024, type: 3}
+  - l0t1: {fileID: 21300000, guid: e273aad3b28433743bfe9ca084cdb2f9, type: 3}
+  - l0t2: {fileID: 21300000, guid: 7868cba58efc48042ae72b74cbf40b71, type: 3}
+  - l0t3: {fileID: 21300000, guid: e0a84dc08d02b7c4696fc3726dc21a26, type: 3}
+  - l0t4: {fileID: 21300000, guid: e6f981de906c99844a48707c89540f44, type: 3}
+  - l0t5: {fileID: 21300000, guid: 91f4b9b823a2a4c418d73034151f1474, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
